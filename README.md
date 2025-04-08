@@ -1,5 +1,8 @@
-  ## 👋 Hi, I'm Atul Chhabra
-## 👋 The Web Dev⚡ Lead who ♥ crafting code that speaks user-first design 🧠💡
+<p align="center">
+  <strong>👋 Hi, I'm Atul Chhabra</strong><br/>
+  <em>👋 The Web Dev⚡ Lead who ♥ crafting code that speaks user-first design 🧠💡</em>
+</p>
+
 
 ### 💼 Frontend Developer | Salesforce UI Specialist
 
