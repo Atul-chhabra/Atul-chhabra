@@ -3,9 +3,6 @@
   <em>👋 The Web Dev⚡ Lead who ♥ crafting code that speaks user-first design 🧠💡</em>
 </p>
 
-## 👋 Hi, I'm Atul Chhabra — Web Dev Extraordinaire ⚡  
-The Web🕸️ Tech Lead who ♥ automating UIs and crafting seamless experiences
-
 ---
 
 ### 💼 Frontend Developer | Salesforce UI Specialist
@@ -22,23 +19,22 @@ The Web🕸️ Tech Lead who ♥ automating UIs and crafting seamless experience
 - 📚 Learning **Data Structures & Algorithms** (Java)
 - 🧱 Diving into **System Design & Low-Level Design**
 - ☁️ Exploring **Azure Cloud** & **DevOps tools**
-- 🧬 Staying healthy & fit for my wedding in October 🏋️
 
 ---
 
+
 ### 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)  
-![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white)  
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce)  
-![LWC](https://img.shields.io/badge/-LWC-00A1E0?style=flat-square&logo=lightning)  
-![Apex](https://img.shields.io/badge/-Apex-1E1E1E?style=flat-square)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -95,10 +91,13 @@ The Web🕸️ Tech Lead who ♥ automating UIs and crafting seamless experience
 
 ### 📜 Certifications
 
+- ✅ Salesforce Javascript Developer 1
+- ✅ Salesforce Platform Developer 1
 - ✅ Salesforce Certified AI Associate
-- ✅ Salesforce Platform Developer I (In Progress)
-- ☁️ Microsoft Azure Fundamentals (Target 2025)
-- 📚 FAANG Prep – DSA & System Design Journey (Ongoing)
+- ✅ Salesforce Certified Administrator
+- ✅ Salesforce AI Specialist
+- ✅ Salesforce Omnistudio Developer
+- ✅ Azure Fundamentals
 
 ---
 
@@ -106,4 +105,3 @@ The Web🕸️ Tech Lead who ♥ automating UIs and crafting seamless experience
 
 - 📧 Email: atulchhabra35@gmail.com
 - 💬 Ask me about: Frontend Engineering, Salesforce UI, LWC, Angular, Automation  
-- 🌟 Fun Fact: I work with the best UI team in the world (we totally believe that 😄)  
