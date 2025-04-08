@@ -1,4 +1,7 @@
-<p style='font-size=20px;align="center'>
+<p style=
+    font-size: 20px;
+    align-items: center;
+>
   <strong>👋 Hi, I'm Atul Chhabra</strong><br/>
   <em>👋 The Web Dev⚡ Lead who ♥ crafting code that speaks user-first design 🧠💡</em>
 </p>
