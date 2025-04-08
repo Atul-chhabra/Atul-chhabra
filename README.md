@@ -5,6 +5,7 @@
 
 ### 💼 Frontend Developer | Salesforce UI Specialist
 
+- 🌟 I’m currently working as a Senior Technical Consultant at Salesforce
 - 🔧 7.5+ years of experience building scalable, responsive, and clean UIs
 - 📍 Currently working on the **Services Central** project
 - 🛠 Skilled in **LWC**, **JavaScript**, **HTML/CSS**, **Apex**, **SOQL**
