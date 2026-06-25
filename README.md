@@ -64,49 +64,80 @@
 #### Salesforce | Senior Technical Consultant
 *July 2022 – Present*
 
-- Architected and built the entire frontend of **Services Central** from scratch using LWC — 50+ reusable components adopted globally
-- Improved Experience Cloud page performance by **40%** through lazy loading and optimized Apex queries
-- Designed SLDS-based component library — **3x faster** feature delivery, **80%** fewer UI inconsistencies
-- Integrated 5+ third-party systems with secure authentication and fault-tolerant error handling
-- Led code quality through **200+ reviews**, reducing production defects by **30%**
-- Built real-time analytics dashboards serving **500+ active users**
-
-`LWC` `Apex` `SOQL` `JavaScript` `Experience Cloud` `SLDS` `REST APIs` `Git`
+- Played a key role in building the Services Central application for Salesforce, taking the lead in creating the user interface using Lightning Web     Components (LWC) from scratch.
+- Developed and implemented user interfaces leveraging Salesforce Experience Cloud (formerly Community Cloud) to create engaging and intuitive          experiences for customers and partners.
+- Designed and built Lightning Web Components (LWC) to enhance the user interface of Salesforce applications, ensuring responsiveness, scalability,     and compatibility across various devices.
+- Utilized Apex programming language to extend Salesforce functionalities and integrate custom business logic into Experience Cloud solutions.
+- Collaborated closely with cross-functional teams including designers, product managers, and backend developers to deliver high-quality user           experiences aligned with business objectives.
+- Leveraged Salesforce Lightning Design System (SLDS) to maintain consistency and adhere to Salesforce UX/UI best practices in Experience Cloud         implementations.
+- Conducted thorough code reviews and provided constructive feedback to ensure code quality, performance, and security in Salesforce Experience Cloud   projects.
+- Optimized page load times and overall performance of Experience Cloud applications through efficient front-end development techniques and backend     optimizations.
+- Implemented custom UI components and layouts using HTML, CSS, and JavaScript within the Salesforce Lightning framework to meet specific business      requirements and enhance user productivity.
+- Integrated third-party APIs and external systems seamlessly with Salesforce Experience Cloud using Apex REST services and JavaScript remoting.
+- Implemented data visualization solutions using Lightning Data Service and Apex controllers to display dynamic data in Experience Cloud interfaces,    improving data accessibility and decision-making for end-users.
+- Actively involved in troubleshooting and debugging UI issues, ensuring smooth functionality and user experience across different browsers and         devices.
+Technology Used: LWC, HTML5, CSS3, JavaScript, APEX, Experience Cloud, JIRA, GIT
 
 ---
 
 #### Accenture Technologies | Application Development Team Lead
 *Dec 2021 – Jul 2022*
 
-- Led 2 developers delivering Angular apps — **100%** on-time across 4 release cycles
-- Architected modular solutions with NgRx — **35%** bundle size reduction
-- Built Node.js/Express.js APIs with JWT auth — **10K+ daily requests**, **99.9%** uptime
-- Implemented CI/CD pipelines — deployment time from **2 hours to 15 minutes**
-
-`Angular` `TypeScript` `NgRx` `Node.js` `Express.js` `JWT` `CI/CD` `Git`
-
+- Led a team of two developers in the successful delivery of Angular-based web applications, ensuring adherence
+  to project timelines and quality standards.
+- Provided technical guidance and mentorship to team members, fostering their professional growth and ensuring
+  alignment with best practices in Angular, JavaScript, and Node.js development.
+- Architectured and implemented scalable and maintainable solutions using Angular framework, leveraging best
+  practices such as modularization, lazy loading, and state management with NgRx.
+- Collaborated with product owners and stakeholders to gather requirements, define technical specifications, and
+  prioritize feature development, ensuring alignment with business objectives.
+- Conducted code reviews and established coding standards to maintain code quality and consistency across the
+  Angular, JavaScript, and Node.js codebase, emphasizing readability, performance, and maintainability.
+- Implemented backend services using Node.js and Express.js, facilitating seamless communication between the
+  frontend and backend layers of the application, and ensuring efficient data processing and API integrations.
+- Managed project resources, including task assignment, workload balancing, and performance evaluation, to
+  optimize team productivity and project outcomes.
+- Collaborated with DevOps engineers to streamline build, deployment, and continuous integration processes,
+  ensuring smooth delivery and deployment of Angular and Node.js applications.
+- Facilitated knowledge sharing sessions and conducted technical trainings to disseminate expertise in Angular,
+- JavaScript, and Node.js development within the team, fostering a culture of learning and collaboration.
+Technology Used: Angular 7/8/10, HTML5, CSS3, JavaScript, TypeScript, Node.js, Express Js,Bootstrap, Git
 ---
 
 #### Accenture Technologies | Application Development Senior Analyst
 *Nov 2020 – Dec 2021*
 
-- Launched digital banking products during COVID-19 — **50K+ customers** served remotely
-- Built shared component library — **60%** code duplication reduction across 3 teams
-- Modernized legacy apps — **40%** technical debt reduction
-- Implemented JWT auth with third-party identity provider integration
-
-`Angular` `Node.js` `Express.js` `JWT` `REST APIs` `Git`
+- Worked as a Senior front-end developer, responsible for designing, building and maintaining client applications.
+- Designed and created new products for client to support business during COVID.
+- Migrated offline banking processes to online banking like document verification, Video legitimation etc.
+- Designed and created several new components in project library.
+- Refactored, modularized and updated old code bases to modern development standards which reduced operating
+  cost and efficiency.
+- As a part of team, developed / designed Web API's and implemented authentication / authorization using JWT.
+- Integrated client application with third party authentication provider.
+- Also work on code deployments, releases and reviews.
+- Worked in Agile-driven environment to effectively maintain project timelines and utilize available resources.
+- Follow TDD while developing.
+Technology Used: Angular 7/8/10, HTML5, CSS3, JavaScript, TypeScript, Node.js, Express Js,Bootstrap, Git.
 
 ---
 
 #### Wipro Technologies | Project Engineer
 *Sept 2017 – Nov 2020*
 
-- Delivered responsive web apps for **7+ enterprise clients** — **4.5+/5** satisfaction ratings
-- Built reusable Angular component library — adopted by **4 teams**, **25%** faster development
-- Achieved **90%+** unit test coverage — **50%** fewer regression defects
-
-`Angular` `Node.js` `Express.js` `HTML5` `CSS3` `Bootstrap` `Jasmine` `Karma` `Git`
+- Worked as a UI developer, with a focus on improving and fixing applications
+- Created UI designs and developed them for over 7 clients using CSS, HTML, Bootstrap, Angular 9, and Node.js
+- Implemented various custom directives in Angular and created reusable components and templates for widespread
+  application use
+- Used Express.js to build and integrate REST APIs
+- Set up JSON web tokens for secure authentication and authorization setups using Node.js
+- Utilized GitHub for project management to maintain an organized workflow
+- Resolved technical issues and handled troubleshooting requests to ensure smooth operation
+- Effectively communicated with business partners and colleagues, using technical expertise to provide advice and
+  support
+- Conducted testing of Angular modules using JASMINE and Protractor for unit testing
+- Developed applications using Agile Scrum methodology, breaking projects into sprints.
+Technology Used: Angular 6, HTML5, CSS3, JavaScript, TypeScript, Git
 
 ---
 
